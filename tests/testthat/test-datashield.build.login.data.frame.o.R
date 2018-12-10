@@ -24,7 +24,7 @@
 library(opal)
 library(testthat)
 
-
+context("opal::datashield.build.login.data.frame.o")
 init.correct.data <- function()
 {
     server <- c('study1', 'study2', 'study3')

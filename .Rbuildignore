@@ -11,3 +11,7 @@
 ^_pkgdown\.yml$
 ^docs$
 ^appveyor\.yml$
+^azure-pipelines\.yml$
+^azure-pipelines\.R$
+^azure-pipelines\.Rout$
+
